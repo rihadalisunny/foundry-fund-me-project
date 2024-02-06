@@ -31,7 +31,7 @@ This is a crowd sourcing application.
 Clone the repository and build the project:
 ```
 git clone https://github.com/rihadalisunny/foundry-fund-me-project
-cd foundry-fund-me-f23
+cd foundry-fund-me-project
 forge build
 ```
 
