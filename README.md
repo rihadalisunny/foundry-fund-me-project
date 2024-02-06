@@ -1,5 +1,7 @@
 # Foundry Fund Me Project
 
+This is a crowd sourcing application.
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
